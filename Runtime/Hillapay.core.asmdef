@@ -1,0 +1,12 @@
+﻿{
+	"name": "Hillapay.core",
+	"references":[],
+	"optionalUnityReferences":[],
+	"includePlatforms":[],
+	"excludePlatforms":[],
+	"allowUnsafeCode" :false,
+	"precompileReferences":[],
+	"autoReferenced":true,
+	"defineConstraints":[],
+	"versionDefines":[]
+}

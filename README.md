@@ -23,7 +23,11 @@ Let's have a look at it.
 ```groovy
 {
   "dependencies": {
+<<<<<<< HEAD
        "ir.hillapay.core": "https://github.com/hillapay/unityPayment.git",
+=======
+   		 "ir.hillapay.core": "https://github.com/hillapay/unityPayment.git",
+>>>>>>> d16ab56d5edaa2aa75270a6b336f77ad8832fdc4
      }
 }
 ```
@@ -312,6 +316,7 @@ HillapaySdk. closeTrack ("uid")
 HillapaySdk.tracker("uid", "action", "description")
 ```
 
+<<<<<<< HEAD
 #### 8. Publish Info
 This service is a tool to manage your application in different instances. For example, you can use this service to control whether your app is free or not, or even its language.
 ```csharp
@@ -409,6 +414,8 @@ you can get result by Implement method:
     }
 ```
 
+=======
+>>>>>>> d16ab56d5edaa2aa75270a6b336f77ad8832fdc4
 You can see manifest, gradle, assets and resource sample by linke:
 
 [https://github.com/hillapay/unityPaymentFiles/tree/master/sample%20template](https://github.com/hillapay/unityPaymentFiles/tree/master/sample%20template)

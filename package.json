@@ -1,7 +1,7 @@
 {
   "name": "ir.hillapay.core",
   "displayname": "Hillapay Package",
-  "version": "1.4.3",
+  "version": "1.4.4",
   "author": "Hillapy by Mehran Jafari",
   "description": "Payment package",
   "dependencies": {
